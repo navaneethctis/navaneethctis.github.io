@@ -1,0 +1,233 @@
+[
+  {
+    "id": 2,
+    "name": "Neukunden",
+    "type": "number",
+    "background": "new_clients.png",
+    "color": "#66ccff",
+    "text": "",
+    "period": "Monat",
+    "values": {
+      "current": {
+        "amount": "3.345"
+      },
+      "last": {
+        "amount": "5.343",
+        "percent": "-49"
+      },
+      "best": {
+        "amount": "23.323",
+        "percent": "-80",
+        "period": "Februar 2018"
+      },
+      "one_year_ago": {
+        "amount": "2.257",
+        "percent": "+105",
+        "period": "01.11.19 - 12.11.19"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Verkaufsschlager",
+    "type": "list",
+    "background": "bestseller.png",
+    "color": "#ff6633",
+    "text": "basierend auf 01.11.2020 - 12.11.2020",
+    "period": "Monat",
+    "values": [
+      "Beispielprodukt 123 mit Apfelsoße - 44.343,23",
+      "Kinderschokolade mit echten Kindern und Salat- 34.343,92",
+      "Eine große Tüte Giummibärenbande - 29.346,64",
+      "Hühnerfrikase für ältere Tomanten - 28.415,89",
+      "Bongo-Bongo Kinderschlinder Apfel  - 24.761,63",
+      "Hühnerfrikasee für Vegane Apfelessigreiniger - 12.492,45",
+      "Demo-Content 233 und Salat für 3 - 9.466,57",
+      "Adidas Laufschuhe für extra langsam Geher - 8.870,00",
+      "Tripf-Tropf das Wasserspiel für Nasse - 7.956,30",
+      "Bing-Bong der Gong am eigenen Bauch 2 - 6.597,40"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Anzahl der Bestellungen (Monat)",
+    "type": "number",
+    "background": "orders.png",
+    "color": "#3399cc",
+    "text": "",
+    "period": "Monat",
+    "values": {
+      "current": {
+        "amount": "5.100"
+      },
+      "last": {
+        "amount": "9.800",
+        "percent": "-50"
+      },
+      "best": {
+        "amount": "39.485",
+        "percent": "-72",
+        "period": "Januar 1979"
+      },
+      "one_year_ago": {
+        "amount": "3.321",
+        "percent": "+102",
+        "period": "01.11.19 - 12.11.19"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Offene Bestellungen",
+    "type": "number",
+    "background": "open_orders.png",
+    "color": "#666666",
+    "text": "",
+    "period": "Monat",
+    "values": {
+      "current": {
+        "amount": "14.465"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Bearbeitungszeit",
+    "type": "time",
+    "background": "process_time.png",
+    "color": "#993366",
+    "text": "",
+    "period": "Monat",
+    "values": {
+      "current": {
+        "amount": "24h 15m"
+      },
+      "last": {
+        "amount": "21h 55m",
+        "percent": "+11"
+      },
+      "best": {
+        "amount": "13h 32m",
+        "percent": "+79",
+        "period": "Oktober 2010"
+      },
+      "one_year_ago": {
+        "amount": "28h 33m",
+        "percent": "-15",
+        "period": "01.11.19 - 12.11.19"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Seitenaufrufe",
+    "type": "number",
+    "background": "visitors.png",
+    "color": "#669900",
+    "text": "",
+    "period": "Monat",
+    "values": {
+      "current": {
+        "amount": "55.000"
+      },
+      "last": {
+        "amount": "250.000",
+        "percent": "-64"
+      },
+      "best": {
+        "amount": "950.000",
+        "percent": "-78",
+        "period": "Januar 2020"
+      },
+      "one_year_ago": {
+        "amount": "23.221",
+        "percent": "+78",
+        "period": "01.11.19 - 12.11.19"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Anzahl der Bestellungen (Tag)",
+    "type": "number",
+    "background": "daily_orders.png",
+    "color": "#3399cc",
+    "text": "",
+    "period": "Tag",
+    "values": {
+      "current": {
+        "amount": "999"
+      },
+      "last": {
+        "amount": "120",
+        "percent": "-8"
+      },
+      "best": {
+        "amount": "750",
+        "percent": "-68",
+        "period": "03.01.2016"
+      },
+      "one_year_ago": {
+        "amount": "125",
+        "percent": "-3",
+        "period": "12.11.2019"
+      }
+    }
+  },
+  {
+    "id": 1,
+    "name": "Umsatz November",
+    "type": "amount",
+    "background": "revenue.png",
+    "color": "#cc6699",
+    "text": "",
+    "period": "Monat",
+    "values": {
+      "current": {
+        "amount": "120.000,84"
+      },
+      "last": {
+        "amount": "350.000,80",
+        "percent": "-48"
+      },
+      "best": {
+        "amount": "450.000,01",
+        "percent": "-71",
+        "period": "Januar 2020"
+      },
+      "one_year_ago": {
+        "amount": "140.000,21",
+        "percent": "+108",
+        "period": "01.11.19 - 13.11.19"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "Umsatz (Tag)",
+    "type": "amount",
+    "background": "revenue.png",
+    "color": "#cc6699",
+    "text": "",
+    "period": "Tag",
+    "values": {
+      "current": {
+        "amount": "35.000,09"
+      },
+      "last": {
+        "amount": "30.000,87",
+        "percent": "+7"
+      },
+      "best": {
+        "amount": "109.000,49",
+        "percent": "-63",
+        "period": "05.01.2020"
+      },
+      "one_year_ago": {
+        "amount": "12.000,22",
+        "percent": "+69",
+        "period": "13.11.2019"
+      }
+    }
+  }
+]
